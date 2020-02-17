@@ -26,7 +26,6 @@ public class RottingOranges994 {
         grid[2][1] = 1;
         grid[2][2] = 1;
         Arrays.asList(grid);
-        List<Integer>
         System.out.println(solution.orangesRotting(grid));
     }
 
