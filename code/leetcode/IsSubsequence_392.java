@@ -32,7 +32,7 @@ public class IsSubsequence_392 {
                     }
                 }
             }
-            return idx == sChars.length;
+            return false;
         }
     }
 }
